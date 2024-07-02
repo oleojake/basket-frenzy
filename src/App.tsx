@@ -3,7 +3,7 @@ import { Route, Routes } from "react-router-dom";
 import { HomePage } from "./pages/home";
 import { Navbar } from "./components/navbar/navbar.component";
 import { IndiciusPage } from "./pages/indicius";
-import { IndiciusGame } from "./pages/indiciusGame";
+import { IndiciusGame } from "./pages/indicius-game";
 
 function App() {
 	return (
